@@ -1,2 +1,2 @@
-# Strider1997.github-io
+# Strider1997.github.io
 Codecademy github pages project
